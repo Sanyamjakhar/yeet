@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(106, 226, 142);
+}
+.sanyam{
+    font-size: 18px;
+    letter-spacing: 9.99px;
+}
+span{
+    font-size: 25px;
+}
+#camera,#result{
+border: 2px dashed cyan;
+width: 350px;
+height:300px
+}
+#gesture,#g_result{
+font-size: large;
+}
+label{
+    color: rgb(191, 254, 0);
+font-size: large;
+}
